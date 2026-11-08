@@ -11,12 +11,12 @@
 		"url": "git+https://github.com/bitfocus/companion-module-syncer-live.git"
 	},
 	"dependencies": {
-		"@companion-module/base": "~1.4.0",
+		"@companion-module/base": "~1.15.1",
 		"eventsource": "^2.0.2",
 		"pocketbase": "^0.16.0"
 	},
 	"devDependencies": {
-		"@companion-module/tools": "^2.8.0"
+		"@companion-module/tools": "^2.9.1"
 	},
 	"type": "module",
 	"prettier": "@companion-module/tools/.prettierrc.json"
