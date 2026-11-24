@@ -3,7 +3,7 @@
 	"name": "syncer-live",
 	"shortname": "syncer-live",
 	"description": "Remotely control syncer.live",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"license": "MIT",
 	"repository": "git+https://github.com/bitfocus/companion-module-syncer-live.git",
 	"bugs": "https://github.com/bitfocus/companion-module-syncer-live/issues",
@@ -14,7 +14,7 @@
 		}
 	],
 	"runtime": {
-		"type": "node18",
+		"type": "node26",
 		"api": "nodejs-ipc",
 		"apiVersion": "1.0.0",
 		"entrypoint": "../main.js"
